@@ -4,7 +4,7 @@ Este repositório tem o intuito de disponibilizar aos usuários interessados o P
 
 Espero que gostem! Aproveitem!😄💕
 
-# ARQUIVO DISPONIBILIZADO => Podcast.rar (Devido a tamanho não suportado pelo Github, acima de 25mb, disponibilizei o arquivo de maneira comprimida para que possa ser ouvido, grato pela compreensão). 
+# ARQUIVO DISPONIBILIZADO => **Podcast.rar** (Devido a tamanho não suportado pelo Github, acima de 25mb, disponibilizei o arquivo de maneira comprimida para que possa ser ouvido, grato pela compreensão). 
 
 # Capa
 ![Capa](Capa.png)
