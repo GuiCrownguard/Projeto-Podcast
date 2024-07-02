@@ -6,8 +6,8 @@ Espero que gostem! Aproveitem!😄💕
 
 
 # Ferramentas Utilizadas🛠
-📑Roteiro - [ChatGPT](https://chatgpt.com/)
-🔊Áudio - [ElevenLabs](https://elevenlabs.io/)
+📑Roteiro - [ChatGPT](https://chatgpt.com/)  
+🔊Áudio - [ElevenLabs](https://elevenlabs.io/)  
 🖼Imagem - (Devido ao Midjourney não fornecer mais amostras) [Eu](https://www.linkedin.com/in/guilherme-mancusi-sim%C3%B5es-882873215/)
 
 # Prompts Utilizados💻 
